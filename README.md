@@ -19,8 +19,8 @@ I am a design engineer for the student led initative Jet 7 and a member of the g
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Logo: <br/>
+<img src="https://i.imgur.com/o03mf9M.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Select the disk:  <br/>
