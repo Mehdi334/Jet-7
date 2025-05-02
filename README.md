@@ -12,11 +12,8 @@ I am a design engineer for the student led initative Jet 7 and a member of the g
 - <b>ANSYS Fluent</b> 
 - <b>ANSYS CFX</b>
 
-<h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
+<h2>Pictures:</h2>
 
 <p align="center">
 Logo: <br/>
