@@ -21,11 +21,9 @@ CAD Cross Section of Gas Turbine:  <br/>
 <br />
 <br />
 CAD of Combustion Chamber: <br />
-<img src="https://i.imgur.com/JJ2PrKP.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-<img src="https://i.imgur.com/rvnMpnv.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/5mD8Krz.jpeg" height="35%" width="35%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JJ2PrKP.jpeg" height="25%" width="30%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rvnMpnv.jpeg" height="45%" width="30%%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5mD8Krz.jpeg" height="25%" width="30%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Combustion Chamber Mesh:  <br/>
