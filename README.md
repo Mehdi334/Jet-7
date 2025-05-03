@@ -1,9 +1,8 @@
 <h1> Jet 7 - Iron Man Suit</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
-I am a design engineer for the student led initative Jet 7 and a member of the gas turbine team. My contributions include designing the CFD workflow which included splitting the gas turbine in to it's main components (Centrifugal compressor, combustion chamber, axial turbine) so that I could run a coupled simulation utisling the outlet boundary conditions of the first component in the next one for realistic results. This also allowed us to run simulations across different software (ANSYS Fluent and CFX). 
+I am a design engineer for the student led initative Jet 7 and a member of the gas turbine team. My contributions include designing the CFD workflow which included splitting the gas turbine in to it's main components (Centrifugal compressor, combustion chamber, axial turbine) so that I could run a coupled simulation utisling the outlet boundary conditions of the first component in the next one for complete results. This also allowed us to run simulations across different software (ANSYS Fluent and CFX). 
 <br />
 
 
@@ -11,37 +10,31 @@ I am a design engineer for the student led initative Jet 7 and a member of the g
 
 - <b>ANSYS Fluent</b> 
 - <b>ANSYS CFX</b>
+- <b> Turbo Grid </b>
 
 
 <h2>Pictures:</h2>
 
 <p align="center">
-Logo: <br/>
-<img src="https://i.imgur.com/o03mf9M.png" height="20%" width="20%" alt="Disk Sanitization Steps"/>
+CAD Cross Section of Gas Turbine:  <br/>
+<img src="https://i.imgur.com/t2SKav0.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+CAD of Combustion Chamber: <br />
+<img src="https://i.imgur.com/JJ2PrKP.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/rvnMpnv.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5mD8Krz.jpeg" height="35%" width="35%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Combustion Chamber Mesh:  <br/>
+<img src="https://i.imgur.com/1smMopP.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/juXQvbj.jpeg" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Temperature Contour Plot (CFD Results):  <br/>
+<img src="https://i.imgur.com/z1OqeTZ.jpeg" height="70%" width="70%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
